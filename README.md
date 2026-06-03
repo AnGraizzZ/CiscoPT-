@@ -27,8 +27,8 @@
 
 [Скрипт](./keepalive/machine-1/keepalive/check.sh)
 [Конфигурационный_файл](./keepalive/machine-1/keepalive/keepalived.conf)
-[!up](./img/master-up.png)
-[!down](./img/master-down.png)
+![up](./img/master-up.png)
+![down](./img/master-down.png)
 
 
 ------
